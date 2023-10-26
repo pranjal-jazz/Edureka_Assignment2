@@ -5,6 +5,7 @@
 
   <groupId>https://github.com/pranjal-jazz/Edureka_Assignment2</groupId>
   <artifactId>Mymaven</artifactId>
+  <version>3.9.5</version>
   <packaging>pom</packaging>
   <name>Mymaven</name>
   <description>Just a pom that makes it easy to build both projects at the same time.</description>
