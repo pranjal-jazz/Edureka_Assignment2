@@ -3,7 +3,7 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>https://github.com/pranjal-jazz/Edureka_Assignment2</groupId>
+  <groupId>com.example</groupId>
   <artifactId>Mymaven</artifactId>
   <version>3.9.5</version>
   <packaging>pom</packaging>
